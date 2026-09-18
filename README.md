@@ -7,6 +7,6 @@ Portfólio desenvolvido com React, TypeScript, Tailwind CSS e Shadcn UI para apr
 
 LINK: portfolio-2026-iota-rosy.vercel.app
 
-## Como rodar o projeto
+## Como rodar meu projeto
 1. Instale as dependências: `npm install`
 2. Inicie o servidor: `npm run dev`
